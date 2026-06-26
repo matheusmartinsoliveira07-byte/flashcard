@@ -24,6 +24,6 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'quais são os beneficios de um braço mecanico?',
+    'aumentam a produtividade e a segurança em linhas de montagem, garantem alta precisão em tarefas repetitivas e devolvem a autonomia, mobilidade e qualidade de vida para usuários de próteses'
 )
