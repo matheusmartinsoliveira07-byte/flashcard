@@ -1,7 +1,7 @@
 criaCartao(
     'robotica',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é um braço robotico?',
+    'é um dispositivo mecânico programável, semelhante ao braço humano, projetado para executar tarefas com alta precisão e repetibilidade'
 )
 
 criaCartao(
