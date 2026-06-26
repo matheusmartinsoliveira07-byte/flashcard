@@ -18,8 +18,8 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como programar um prompt para adicionar no braço mecanico e receber comandos?',
+    'Para programar um prompt para um braço mecânico, você deve estruturar o comando em uma linguagem de linguagem natural (como GPT, Claude ou Gemini) para que a IA processe a instrução e a converta em código de controle (como C++) para microcontroladores'
 )
 
 criaCartao(
