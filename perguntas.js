@@ -33,3 +33,9 @@ criaCartao(
     'o que é uma função importante na robotica?',
     'é a autonomia, que é a capacidade de um sistema perceber o seu ambiente, tomar decisões e realizar ações sem a necessidade de intervenção humana constante'
 )
+
+criaCartao(
+    'robotica',
+    'quais são os principais fundamentos para se usar um braço mecanico?',
+    'Os principais fundamentos de um braço mecânico giram em torno da cinemática e do controle de movimentos. Eles se baseiam na integração de componentes estruturais, sistemas de propulsão e atuadores programáveis para replicar ou superar as habilidades de um membro humano'
+)
