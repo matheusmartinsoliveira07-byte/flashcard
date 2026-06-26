@@ -27,3 +27,9 @@ criaCartao(
     'quais são os beneficios de um braço mecanico?',
     'aumentam a produtividade e a segurança em linhas de montagem, garantem alta precisão em tarefas repetitivas e devolvem a autonomia, mobilidade e qualidade de vida para usuários de próteses'
 )
+
+criaCartao(
+    'robotica',
+    'o que é uma função importante na robotica?',
+    'é a autonomia, que é a capacidade de um sistema perceber o seu ambiente, tomar decisões e realizar ações sem a necessidade de intervenção humana constante'
+)
