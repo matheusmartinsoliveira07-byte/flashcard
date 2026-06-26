@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'como fazer um braço mecanico funcionar?'
+    'você precisa integrar três sistemas principais: a estrutura física (mecânica), os atuadores (motores ou pistões) e o sistema de controle (eletrônica/programação ou hidráulica)'
 )
 
 criaCartao(
