@@ -5,13 +5,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
+    'perguntas',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'respostas',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
