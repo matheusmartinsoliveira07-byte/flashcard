@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'como fazer um braço mecanico funcionar?'
+    'como fazer um braço mecanico funcionar?',
     'você precisa integrar três sistemas principais: a estrutura física (mecânica), os atuadores (motores ou pistões) e o sistema de controle (eletrônica/programação ou hidráulica)'
 )
 
