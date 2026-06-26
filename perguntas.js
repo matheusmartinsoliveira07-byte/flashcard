@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'robotica',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'qual a peça mais importante para o braço robotico funcionar?',
+    'Não existe apenas uma única peça mais importante, pois o braço robótico funciona como um sistema integrado'
 )
 
 criaCartao(
