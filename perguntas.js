@@ -43,7 +43,7 @@ criaCartao(
 criaCartao(
     'fisica e tecnociencia ',
     'o que é a fisica e tecnociencia?',
-    'A física é a ciência que investiga as leis fundamentais da natureza, buscando entender como o universo funciona desde as menores partículas subatômicas até a imensidão das galáxias. A tecnociência, por sua vez, é a integração profunda entre a ciência e a tecnologia, onde o conhecimento científico e a inovação tecnológica se alimentam mutuamente em um ciclo contínuo'
+    'A Física é a ciência natural que estuda os fenômenos fundamentais do universo, buscando entender o funcionamento da natureza e de suas leis, desde as partículas subatômicas até as galáxias'
 )
 
 criaCartao(
@@ -54,18 +54,18 @@ criaCartao(
 
 criaCartao(
     'fisica e tecnociencia ',
-    'Qual é a velocidade limite de propagação de informações no Universo e quanto ela vale?',
-    'A velocidade limite no vácuo é a velocidade da luz, representada pela letra \(c\), que equivale exatamente a \(299.792.458\) metros por segundo (aproximadamente \(300.000\) km/s). Nada com massa pode viajar mais rápido do que isso segundo a Teoria da Relatividade.'
+    'Como a Física está ligada à tecnologia no nosso dia a dia?',
+    'Ela é a base de muitos aparelhos modernos. Por exemplo, as telas sensíveis ao toque dos celulares funcionam com base no princípio da capacitância (estudo da eletricidade), enquanto as tecnologias quânticas utilizam conceitos microscópicos para criar processadores rápidos'
 )
 
 criaCartao(
     'fisica e tecnociencia ',
-    'O que é o Tempo de Planck e qual a sua importância?',
-    'O tempo de Planck (\(t_{P}\)) é o menor intervalo de tempo com significado físico mensurável no nosso Universo. Ele representa o tempo que a luz leva para percorrer o comprimento de Planck e seu valor é de aproximadamente \(5,39 \times 10^{-44}\) segundos. Abaixo dessa escala, as leis da física clássica deixam de fazer sentido e entram no domínio da gravidade quântica'
+    'O que é o GPS e qual a sua relação com a Física?',
+    'O GPS é um sistema de navegação por satélite. A sua precisão depende diretamente das teorias da Relatividade de Einstein, pois o tempo passa de forma ligeiramente diferente para os satélites em órbita rápida em comparação com a Terra'
 )
 
 criaCartao(
     'fisica e tecnociencia ',
     'Como a Física Quântica está presente nos smartphones atuais?',
-    'A mecânica quântica atua no comportamento dos elétrons dentro de materiais semicondutores. Isso permitiu o desenvolvimento de transistores, que são as chaves microscópicas que processam dados nos processadores dos celulares, além de viabilizar a tecnologia dos LEDs e os leitores de impressão digital'
+    'O GPS é um sistema de navegação por satélite. A sua precisão depende diretamente das teorias da Relatividade de Einstein, pois o tempo passa de forma ligeiramente diferente para os satélites em órbita rápida em comparação com a Terra'
 )
