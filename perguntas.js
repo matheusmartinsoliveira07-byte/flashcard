@@ -46,25 +46,25 @@ criaCartao(
     'A física é a ciência que investiga as leis fundamentais da natureza, buscando entender como o universo funciona desde as menores partículas subatômicas até a imensidão das galáxias. A tecnociência, por sua vez, é a integração profunda entre a ciência e a tecnologia, onde o conhecimento científico e a inovação tecnológica se alimentam mutuamente em um ciclo contínuo'
 )
 
-riaCartao(
+criaCartao(
     'fisica e tecnociencia ',
     'O que é o Efeito Fotoelétrico e por que ele é crucial para a tecnologia moderna?',
     'É a emissão de elétrons por um material quando iluminado por luz com energia suficiente. Foi explicado por Albert Einstein, provando que a luz é composta por pacotes de energia denominados fótons. Tecnologia: Esse princípio é a base de funcionamento dos painéis solares fotovoltaicos e dos sensores de luz (Lidar)'
 )
 
-riaCartao(
+criaCartao(
     'fisica e tecnociencia ',
     'Qual é a velocidade limite de propagação de informações no Universo e quanto ela vale?',
     'A velocidade limite no vácuo é a velocidade da luz, representada pela letra \(c\), que equivale exatamente a \(299.792.458\) metros por segundo (aproximadamente \(300.000\) km/s). Nada com massa pode viajar mais rápido do que isso segundo a Teoria da Relatividade.'
 )
 
-riaCartao(
+criaCartao(
     'fisica e tecnociencia ',
     'O que é o Tempo de Planck e qual a sua importância?',
     'O tempo de Planck (\(t_{P}\)) é o menor intervalo de tempo com significado físico mensurável no nosso Universo. Ele representa o tempo que a luz leva para percorrer o comprimento de Planck e seu valor é de aproximadamente \(5,39 \times 10^{-44}\) segundos. Abaixo dessa escala, as leis da física clássica deixam de fazer sentido e entram no domínio da gravidade quântica'
 )
 
-riaCartao(
+criaCartao(
     'fisica e tecnociencia ',
     'Como a Física Quântica está presente nos smartphones atuais?',
     'A mecânica quântica atua no comportamento dos elétrons dentro de materiais semicondutores. Isso permitiu o desenvolvimento de transistores, que são as chaves microscópicas que processam dados nos processadores dos celulares, além de viabilizar a tecnologia dos LEDs e os leitores de impressão digital'
