@@ -39,3 +39,9 @@ criaCartao(
     'quais são os principais fundamentos para se usar um braço mecanico?',
     'Os principais fundamentos de um braço mecânico giram em torno da cinemática e do controle de movimentos. Eles se baseiam na integração de componentes estruturais, sistemas de propulsão e atuadores programáveis para replicar ou superar as habilidades de um membro humano'
 )
+
+criaCartao(
+    'fisica e tecnociencia ',
+    'o que é a fisica e tecnociencia?',
+    'A física é a ciência que investiga as leis fundamentais da natureza, buscando entender como o universo funciona desde as menores partículas subatômicas até a imensidão das galáxias. A tecnociência, por sua vez, é a integração profunda entre a ciência e a tecnologia, onde o conhecimento científico e a inovação tecnológica se alimentam mutuamente em um ciclo contínuo'
+)
