@@ -55,7 +55,7 @@ criaCartao(
 criaCartao(
     'fisica e tecnociencia ',
     'Como a Física está ligada à tecnologia no nosso dia a dia?',
-    'Ela é a base de muitos aparelhos modernos. Por exemplo, as telas sensíveis ao toque dos celulares funcionam com base no princípio da capacitância (estudo da eletricidade), enquanto as tecnologias quânticas utilizam conceitos microscópicos para criar processadores rápidos'
+    'A Física move os aparelhos modernos, usando a eletricidade nas telas touchscreen e a mecânica quântica em processadores rápidos'
 )
 
 criaCartao(
