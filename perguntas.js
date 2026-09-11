@@ -67,5 +67,5 @@ criaCartao(
 criaCartao(
     'fisica e tecnociencia ',
     'Como a Física Quântica está presente nos smartphones atuais?',
-    'O GPS é um sistema de navegação por satélite. A sua precisão depende diretamente das teorias da Relatividade de Einstein, pois o tempo passa de forma ligeiramente diferente para os satélites em órbita rápida em comparação com a Terra'
+    'A Física Quântica está presente nos **chips, telas, câmeras e sensores** dos smartphones, permitindo seu funcionamento.'
 )
