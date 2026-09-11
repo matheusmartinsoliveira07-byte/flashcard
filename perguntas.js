@@ -67,5 +67,5 @@ criaCartao(
 criaCartao(
     'fisica e tecnociencia ',
     'Como a Física Quântica está presente nos smartphones atuais?',
-    'A Física Quântica está presente nos chips, telas, câmeras e sensores** dos smartphones, permitindo seu funcionamento.'
+    'A Física Quântica está presente nos chips, telas, câmeras e sensores dos smartphones, permitindo seu funcionamento.'
 )
